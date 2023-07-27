@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
-<img width=200 height=100 src="https://github.com/Shashank-R87/shashank-r87/assets/95744775/d4ad49b5-57ec-4457-b72b-5372a024c427">
+<img align="center" width=400 height=200 src="https://github.com/Shashank-R87/shashank-r87/assets/95744775/d4ad49b5-57ec-4457-b72b-5372a024c427">
 <h3 align="center">A passionate web and software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-r87&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-r87" /> </p>
