@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate web and software developer from India</h3>
+<img src={"https://giphy.com/embed/n1dFDLwXu4Qkwy7OJ0"} width="480" height="480" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-r87&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-r87" /> </p>
 
