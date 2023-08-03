@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashank</h1>
+![Name GIF](https://github.com/Shashank-R87/shashank-r87/assets/95744775/5f8677ac-9778-4d57-bde2-0a3e2fa010ed)
 <h3 align="center">A passionate web and software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-r87&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-r87" /> </p>
